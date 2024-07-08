@@ -1,4 +1,4 @@
-![logo](https://github.com/NayanKaremore03/NayanKaremore03/blob/main/banner.png)
+![logo](https://github.com/ritikaMalve/ritikaMalve/blob/main/banner1.png)
 <h1 align="center">Hi 👋, I'm Ritika Malve</h1>
 <h3 align="center">I'm a Flutter developer with a passion for building beautiful and functional mobile applications.</h3>
 <img align="right" alt = "coding" width = "300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzgbV8tlHV3cukC_CPdjMDhpEtm_bPvmQ9_A&s" />
